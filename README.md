@@ -3,6 +3,5 @@
 # Data Science & Analytics
 ### Education 
 ## Work Experience
-# [View the Walkthrough](./walkthrough.html)
 
 
